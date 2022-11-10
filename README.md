@@ -10,8 +10,10 @@
 - Major in Artificial Intelligence, Computer Science Engineering
 -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=noweymik&show_icons=true&theme=radical)     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noweymik&layout=compact&theme=radical)](https://github.com/noweymik/github-readme-stats)
-
+<div>
+ <img src="https://github-readme-stats.vercel.app/api?username=noweymik&show_icons=true&theme=radical&count_private=true&hide_border=true" align="left" style="width: 53%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noweymik&exclude_repo=merge_game&layout=compact&theme=radical" style="width: 42%"/>
+</div>
 
 <!--
 **noweymik/noweymik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
