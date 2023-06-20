@@ -20,7 +20,7 @@
 2022.06 - BizFlow M Pre-Contest 장려상 <br>
 2023.06 - BizFlow M Pre-Contest 우수상 <br>
 
-### 👩🏻‍💻PROJECT
+### 👩🏻‍💻PROJECTS
 2021.12 ~ 2022.01 - [BLAP 웹서비스](https://github.com/noweymik/BLAP) <br>
 2023.03 ~ 2023.06 - [Emotional Support Robot](https://github.com/noweymik/HCI_PiboRobot) <br>
 2023.04 ~ 2023.06 - [DayPix 앱](https://github.com/noweymik/DayPix) <br>
