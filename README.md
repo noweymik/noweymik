@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-<a href="https://ywdevel0per.tistory.com/"><img src="https://img.shields.io/badge/BLOG-000000?style=flat-square&logo=Tistory&logoColor=white"/></a> <a href="https://www.instagram.com/noweymik._/"><img src="https://img.shields.io/badge/noweymik-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a> <img src="https://img.shields.io/badge/22000136@handong.ac.kr-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
+<a href="https://ywdevel0per.tistory.com/"><img src="https://img.shields.io/badge/BLOG-000000?style=flat-square&logo=Tistory&logoColor=white"/></a> <a href="https://www.instagram.com/noweymik._/"><img src="https://img.shields.io/badge/noweymik-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a> <img src="https://img.shields.io/badge/noweymik01@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
 
 <!-- 
 ### 🙂ABOUT ME
@@ -15,17 +15,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noweymik&exclude_repo=merge_game&layout=compact&theme=radical" style="width: 42%"/>
 </div>
 
-<!--
-**noweymik/noweymik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ✨ACHIEVEMENTS
+2021.12 - 한동대학교 SW 페스티벌 문제해결 아이디어 공모전 장려상 <br>
+2022.06 - BizFlow M Pre-Contest 장려상 <br>
+2023.06 - BizFlow M Pre-Contest 우수상 <br>
 
-Here are some ideas to get you started:
+### 👩🏻‍💻Project
+2021.12 ~ 2022.01 - [BLAP 웹서비스](https://github.com/noweymik/BLAP) <br>
+2023.03 ~ 2023.06 - [Emotional Support Robot](https://github.com/noweymik/HCI_PiboRobot) <br>
+2023.04 ~ 2023.06 - [DayPix 앱](https://github.com/noweymik/DayPix) <br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
