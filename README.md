@@ -2,7 +2,8 @@
 
 ### Hi there 👋
 
-<a href="https://ywdevel0per.tistory.com/"><img src="https://img.shields.io/badge/BLOG-000000?style=flat-square&logo=Tistory&logoColor=white"/></a> <a href="https://www.instagram.com/noweymik._/"><img src="https://img.shields.io/badge/noweymik-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a> <img src="https://img.shields.io/badge/noweymik01@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
+<!-- <a href="https://ywdevel0per.tistory.com/"><img src="https://img.shields.io/badge/BLOG-000000?style=flat-square&logo=Tistory&logoColor=white"/></a> -->
+<a href="https://www.instagram.com/noweymik._/"><img src="https://img.shields.io/badge/noweymik-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a> <img src="https://img.shields.io/badge/noweymik01@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
 
 <!-- 
 ### 🙂ABOUT ME
