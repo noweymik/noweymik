@@ -21,7 +21,7 @@
 2022.06 - BizFlow M Pre-Contest 장려상 <br>
 2023.06 - BizFlow M Pre-Contest 우수상 <br>
 2023.09 - BizFlow M Pre-Contest 장려상 <br>
-2024.02 - AWS 빅데이터 해커톤 1등 <br>
+2024.02 - 동계 AWS 빅데이터 경진대회(해커톤) 대상 <br>
 
 ### 👩🏻‍💻PROJECTS
 2021.12 ~ 2022.01 - [BLAP 웹서비스](https://github.com/noweymik/BLAP) <br>
