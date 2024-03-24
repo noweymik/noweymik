@@ -28,9 +28,9 @@
 |**Period**|**Project**|**Detail**|**Development Tools**|**Link**|
 |:---:|:---:|:---:|:---:|:---:|
 |2021.12.20~2021.01.20|Spring Web Service Project|'BLAP' : 버킷리스트 달성을 위한 효율적인 예산 관리 웹 서비스|Spring|[BLAP 웹서비스](https://github.com/noweymik/BLAP)|
-|2023.03.13~2023.06.14|Human-Computer Interaction Project|'Emotional Support Robot' : Pibo로봇을 이용한 사회적으로 고립된 이들의 의사소통 욕구를 충족시키기 위한 공감 로봇 서비스|Python|[Emotional Support Robot](https://github.com/noweymik/HCI_PiboRobot)|
+|2023.03.13~2023.06.14|Human-Computer Interaction Project|'Emotional Support Robot' : Pibo로봇을 이용한 사회적으로 고립된 이들의 의사소통 욕구를 충족시키기 위한 공감 로봇 서비스|Python, OpenAI|[Emotional Support Robot](https://github.com/noweymik/HCI_PiboRobot)|
 |2023.04.10~2023.06.16|Mobile App Development Project|'DayPix' : 하루하루 작은 일이라도 하나씩 기록해보면서 매일의 소중함을 기억하기 위한 일기장 앱 서비스|Flutter, Firebase|[DayPix 앱](https://github.com/noweymik/DayPix)|
-|2024.01.30~2024.02.01|BigData AWS Camp Hackathon|'소소가족' : 하루에 한 번, 질문에 답하며 가족 간 소소한 행복을 찾아가는 앱 서비스|Flutter, AWS|[소소가족 앱](https://github.com/noweymik/soso_family)|
+|2024.01.30~2024.02.01|BigData AWS Camp Hackathon|'소소가족' : 하루에 한 번, 질문에 답하며 가족 간 소소한 행복을 찾아가는 앱 서비스|Flutter, Flask, AWS RDS, OpenAI|[소소가족 앱](https://github.com/noweymik/soso_family)|
 
 ## 💋CONTACTS
 <a href="https://www.instagram.com/noweymik._/"><img src="https://img.shields.io/badge/noweymik-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a> <img src="https://img.shields.io/badge/noweymik01@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
