@@ -1,13 +1,15 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=FF6384&height=300&section=header&text=Yewon%20Kim✨&fontSize=90) 
 
 
-
+<div align=center>
+	<img class="img" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnoweymik&count_bg=%23F5CCFF&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=Github&edge_flat=false" />
+</div>
+ 
 ## 🙋🏻‍♀️ABOUT ME
 - Handong Global University 20 
 - Major in Computer Science
 
-<div align=center>
-	<img class="img" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnoweymik&count_bg=%23F5CCFF&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=Github&edge_flat=false" />
+
 <!-- </div>
 <div>
  <img src="https://github-readme-stats.vercel.app/api?username=noweymik&show_icons=true&theme=radical&count_private=true&hide_border=true" align="left" style="width: 53%" /> 
