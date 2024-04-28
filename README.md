@@ -6,7 +6,7 @@
  
 ## 🙋🏻‍♀️ABOUT ME
 - Handong Global University 20 
-- Major in Computer Science
+- Major in Computer Science 
 
 
 <!-- </div>
