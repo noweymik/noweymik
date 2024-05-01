@@ -4,7 +4,7 @@
 	<img class="img" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnoweymik&count_bg=%23F5CCFF&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=Github&edge_flat=false" />
 </div>
  
-## 🙋🏻‍♀️ABOUT ME
+## 🙋🏻‍♀️ ABOUT ME
 - Handong Global University 20 
 - Major in Computer Science 
 
@@ -15,7 +15,7 @@
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noweymik&exclude_repo=merge_game&layout=compact&theme=radical" style="width: 42%"/> 
 </div> -->
 
-## 🎖️AWARDS
+## 🎖️ AWARDS
 	
 |**Date**|**Award**|**Detail**|**Organization**|
 |:---:|:---:|:---:|:---:|
@@ -23,7 +23,7 @@
 |2024.02.01|빅데이터 AWS 캠프 해커톤 대상|'소소가족' : 하루에 한 번, 질문에 답하며 가족 간 소소한 행복을 찾아가는 서비스|경기과기대 빅데이터혁신융합대학산업단|
 
 
-## 👩🏻‍💻PROJECTS
+## 👩🏻‍💻 PROJECTS
 |**Period**|**Project**|**Detail**|**Development Tools**|**Link**|
 |:---:|:---:|:---:|:---:|:---:|
 |2021.12.20~2021.01.20|Spring Web Service Project|'BLAP' : 버킷리스트 달성을 위한 효율적인 예산 관리 웹 서비스|Spring|[BLAP 웹서비스](https://github.com/noweymik/BLAP)|
@@ -31,5 +31,11 @@
 |2023.04.10~2023.06.16|Mobile App Development Project|'DayPix' : 하루하루 작은 일이라도 하나씩 기록해보면서 매일의 소중함을 기억하기 위한 일기장 앱 서비스|Flutter, Firebase|[DayPix 앱](https://github.com/noweymik/DayPix)|
 |2024.01.30~2024.02.01|BigData AWS Camp Hackathon|'소소가족' : 하루에 한 번, 질문에 답하며 가족 간 소소한 행복을 찾아가는 앱 서비스|Flutter, Flask, AWS RDS, OpenAI|[소소가족 앱](https://github.com/noweymik/soso_family)|
 
-## 💋CONTACTS
+## 🗯️ Certificates
+
++ SQLD
++ OPIc IH
+<br>
+
+## 💋 CONTACTS
 <a href="https://www.instagram.com/noweymik._/"><img src="https://img.shields.io/badge/noweymik-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a> <img src="https://img.shields.io/badge/noweymik01@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
