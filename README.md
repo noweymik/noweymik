@@ -37,5 +37,5 @@
 + OPIc IH
 <br>
 
-## 💋 CONTACTS
-<a href="https://www.instagram.com/noweymik._/"><img src="https://img.shields.io/badge/noweymik-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a> <img src="https://img.shields.io/badge/noweymik01@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
+<!--## 💋 CONTACTS
+<a href="https://www.instagram.com/noweymik._/"><img src="https://img.shields.io/badge/noweymik-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a> <img src="https://img.shields.io/badge/noweymik01@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>--!>
